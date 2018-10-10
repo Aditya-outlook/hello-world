@@ -1,4 +1,4 @@
 # hello-world
 Git tutorial
 
-This is attempt to learn about git. 
+Learn git to store Angular6 learnings. 
